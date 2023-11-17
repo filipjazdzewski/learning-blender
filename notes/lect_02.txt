@@ -1,0 +1,11 @@
+jeżeli klikniesz shift + d i zduplikujesz i zacznie obiekt przesuwac sie z twoja myszką, jak chcesz zeby przestal to trzeba kliknac Escape, ale obiekt pozostanie
+
+shift + d - duplikuje
+alt + d - też duplikuje, ale dane ma z oryginalnego klocka
+ctrl + n - nowa scena (nowy plik)
+alg + g - przywraca obiekt na koordynaty (0, 0, 0)
+shift + c - daje pivot na koordynaty (0, 0, 0)
+s - skalowanie
+s => x => .1   - zeskaluje ci w płaszczyźnie x do 10%
+
+snap to face project

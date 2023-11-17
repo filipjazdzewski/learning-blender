@@ -1,0 +1,6 @@
+Dragging
+    * G - Grab an object
+    * Ctrl – While dragging, snap to discrete steps.
+    * Shift – Gives precision control over the value.
+    * Shift-Ctrl – Precise snap will move the object with high precision along with the snapping constraint.
+

@@ -1,4 +1,0 @@
-shift + d - duplikowanie
-ctrl + lpm - przesuwanie o 1m po siatce
-mpm click i przesuwanie - poruszanie sie wokol punktu
-shift + mpm  i przesuwanie - poruszanie sie statycznie

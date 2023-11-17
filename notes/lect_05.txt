@@ -1,0 +1,9 @@
+W trybie edycji (Tab):
+e - extrude
+i - incet
+ctrl + b - bevel
+ctrl + shift + b - bevel taki dziwny
+ctrl + r - loop cut
+	- e - even
+	- c- clump
+	- f - flip
